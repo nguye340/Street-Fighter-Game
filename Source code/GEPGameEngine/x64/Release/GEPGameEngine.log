@@ -1,0 +1,41 @@
+﻿  AudioManager.cpp
+E:\GEPGameEngineFramework\GEPGameEngine\AudioManager.cpp(29,8): error C2039: 'clamp': is not a member of 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\map(25,1): message : see declaration of 'std'
+E:\GEPGameEngineFramework\GEPGameEngine\AudioManager.cpp(29,13): error C3861: 'clamp': identifier not found
+E:\GEPGameEngineFramework\GEPGameEngine\AudioManager.cpp(98,4): warning C4150: deletion of pointer to incomplete type '_Mix_Music'; no destructor called
+E:\GEPGameEngineFramework\packages\sdl2_mixer.nuget.2.0.4\build\native\include\SDL_mixer.h(143,16): message : see declaration of '_Mix_Music'
+E:\GEPGameEngineFramework\GEPGameEngine\AudioManager.cpp(113,4): warning C4150: deletion of pointer to incomplete type '_Mix_Music'; no destructor called
+E:\GEPGameEngineFramework\packages\sdl2_mixer.nuget.2.0.4\build\native\include\SDL_mixer.h(143,16): message : see declaration of '_Mix_Music'
+  Button.cpp
+  Enemy.cpp
+  Game.cpp
+  GameLevel1.cpp
+  GameLevel2.cpp
+  GameLevel3.cpp
+  GameManager.cpp
+  GameState.cpp
+E:\GEPGameEngineFramework\GEPGameEngine\GameState.cpp(65,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\GameState.cpp(70,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\GameState.cpp(98,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\GameState.cpp(103,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\GameState.cpp(108,44): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\GameState.cpp(127,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\GameState.cpp(134,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\GameState.cpp(134,50): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  HealthBar.cpp
+  main.cpp
+  MainMenuState.cpp
+  PauseMenuPopupState.cpp
+  Player.cpp
+  ProgressBar.cpp
+  Projectile.cpp
+  ScreenState.cpp
+  ScreenState.h
+  SpriteEx.cpp
+  StateMachine.cpp
+  Compiling...
+  VictoryScreen.cpp
+E:\GEPGameEngineFramework\GEPGameEngine\VictoryScreen.cpp(57,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\VictoryScreen.cpp(62,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\VictoryScreen.cpp(67,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+E:\GEPGameEngineFramework\GEPGameEngine\VictoryScreen.cpp(85,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
