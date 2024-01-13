@@ -1,2 +1,0 @@
-Package Created: 03.07.2019 16:28:47
-CoApp tools version: 1.23.521.0
