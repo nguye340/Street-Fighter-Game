@@ -35,7 +35,7 @@ Street Fighter is developed using C++ and Visual Studio 2020, powered by a custo
 
 ## Screenshots 📸
 
-![Game Start](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/screenshots/starting_level.gif))
+![Game Start](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/screenshots/starting_level.gif)
 *Beginning of a fierce battle in the dojo*
 
 ![Controls](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/Screenshots/gameplay_demo.gif)
