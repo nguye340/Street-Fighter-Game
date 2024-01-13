@@ -1,8 +1,10 @@
 # Street Fighter: The Ultimate Brawl 🥋💥
 A 2D arcade-style Street Fighter Game made with VS and C++
 
-Welcome to Street Fighter: The Ultimate Brawl, where epic battles unfold in 3 intense levels, each consisting of 3 rounds. Your goal: deplete your opponent's HP before they do the same to you. Master your moves, execute combos, and emerge victorious in this action-packed fighting game!
 ---
+## Objectives 🎯
+
+Welcome to Street Fighter: The Ultimate Brawl, where epic battles unfold in 3 intense levels, each consisting of 3 rounds. Your goal: deplete your opponent's HP before they do the same to you. Master your moves, execute combos, and emerge victorious in this action-packed fighting game!
 
 ## Gameplay 🎮
 
@@ -33,14 +35,14 @@ Street Fighter is developed using C++ and Visual Studio 2020, powered by a custo
 
 ## Screenshots 📸
 
-![Game Start](https://raw.githubusercontent.com/nguye340/Street-Fighter/main/Screenshots/gameplay.png)
-*Beginning of a fierce battle in the city streets*
+![Game Start](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/screenshots/starting_level.gif))
+*Beginning of a fierce battle in the dojo*
 
-![Energy Blast](https://raw.githubusercontent.com/nguye340/Street-Fighter/main/Screenshots/energyblast.gif)
-*Unleashing a powerful energy blast on your opponent*
+![Controls](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/Screenshots/gameplay_demo.gif)
+*Unleashing a powerful energy blast on your opponent, kicking, and jumping to avoid attacks*
 
-![Victory Pose](https://raw.githubusercontent.com/nguye340/Street-Fighter/main/Screenshots/victory.gif)
-*Celebrating a hard-fought victory*
+![Final Victory](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/Screenshots/intense_final_level_win.gif)
+*Intense, fast-paced Final Level and celebrating a hard-fought victory*
 
 ---
 
