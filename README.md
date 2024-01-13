@@ -22,7 +22,7 @@ Engage in thrilling one-on-one battles with the enemy fighter. Win 2 rounds in e
 
 ## Development 💻
 
-Street Fighter is developed using C++ and Visual Studio 2020, powered by a custom game engine. This custom engine is designed to render pixelated artstyle and interactive elements, including menu screens, pop-ups, buttons, animations, and immersive sound effects.
+Street Fighter is developed using C++ and Visual Studio 2020, powered by a custom game engine. This custom engine is designed to render pixelated art style and interactive elements, including menu screens, pop-ups, buttons, animations, and immersive sound effects.
 
 ### Skills Showcased:
 - **C++ Proficiency:** Crafting the core game logic and mechanics.
@@ -37,14 +37,16 @@ Street Fighter is developed using C++ and Visual Studio 2020, powered by a custo
 
 ### Game Start
 ![Game Start](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/screenshots/starting_level.gif)
+
 *Beginning of a fierce battle in the dojo*
 
 ### Controls and Gameplay Demo
-![Controls](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/Screenshots/gameplay_demo.gif)
+![Controls](https://github.com/nguye340/Street-Fighter-Game/blob/aae86f2cdd8128b100a424645deab5b8dd69ebb5/screenshots/gameplay_demo.gif)
 *Unleashing a powerful energy blast on your opponent, kicking, and jumping to avoid attacks*
 
 ### Final Victory
-![Final Victory](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/Screenshots/intense_final_level_win.gif)
+![Final Victory](https://github.com/nguye340/Street-Fighter-Game/blob/main/screenshots/intense_final_level_win.gif?raw=true)
+
 *Intense, fast-paced Final Level and celebrating a hard-fought victory*
 
 ---
