@@ -1,16 +1,16 @@
-# Street Fighter: The Ultimate Brawl 🥋💥
+# Street Fighter The Ultimate Brawl (ง'̀-'́)ง
 A 2D arcade-style Street Fighter Game made with VS and C++
 
 ---
-## Objectives 🎯
+## Objectives ☆
 
 Welcome to Street Fighter: The Ultimate Brawl, where epic battles unfold in 3 intense levels, each consisting of 3 rounds. Your goal: deplete your opponent's HP before they do the same to you. Master your moves, execute combos, and emerge victorious in this action-packed fighting game!
 
-## Gameplay 🎮
+## Gameplay ⚔
 
 Engage in thrilling one-on-one battles with the enemy fighter. Win 2 rounds in each level to progress to the next. Use strategic moves and powerful attacks to dominate your opponent.
 
-### Controls 🕹️
+### Controls ⏲
 
 - **Move:** A, D
 - **Jump:** Spacebar
@@ -20,11 +20,11 @@ Engage in thrilling one-on-one battles with the enemy fighter. Win 2 rounds in e
 
 ---
 
-## Development 💻
+## Development </>
 
 Street Fighter is developed using C++ and Visual Studio 2020, powered by a custom game engine. This custom engine is designed to render pixelated art style and interactive elements, including menu screens, pop-ups, buttons, animations, and immersive sound effects.
 
-### Skills Showcased:
+### Skills Showcased 🛠 :
 - **C++ Proficiency:** Crafting the core game logic and mechanics.
 - **Game Development:** Designing an engaging and challenging gaming experience.
 - **Custom Game Engine:** Creating a powerful engine for rendering visuals and interactive elements.
@@ -33,7 +33,7 @@ Street Fighter is developed using C++ and Visual Studio 2020, powered by a custo
 
 ---
 
-## Screenshots 📸
+## Screenshots [◉°]
 
 ### Game Start
 ![Game Start](https://raw.githubusercontent.com/nguye340/Street-Fighter-Game/main/screenshots/starting_level.gif)
@@ -52,13 +52,13 @@ Street Fighter is developed using C++ and Visual Studio 2020, powered by a custo
 
 ---
 
-## Reflection 🥷🚀
+## Reflection 𐔌՞. .՞𐦯 ⟳
 
 As the developer of Street Fighter: The Ultimate Brawl, I've expanded my skill set, combining my expertise in C++, game development, and visual design. This project further demonstrates my ability to create dynamic and captivating gaming experiences, focusing on intricate animations and a custom game engine.
 
 ---
 
-## Contact Information 📬
+## Contact Information ദ്ദി(˶ᵔ ᵕᵔ˶)✧
 
 - **Email:** nguye340@sheridancollege.ca
 - **LinkedIn:** [Han Thao Nguyen](https://www.linkedin.com/in/hanthaonguyen/)
