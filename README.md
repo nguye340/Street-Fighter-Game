@@ -63,4 +63,4 @@ As the developer of Street Fighter: The Ultimate Brawl, I've expanded my skill s
 - **Email:** nguye340@sheridancollege.ca
 - **LinkedIn:** [Han Thao Nguyen](https://www.linkedin.com/in/hanthaonguyen/)
 
-Feel free to reach out if you have any questions, feedback, or if you're interested in collaborating with me for your next project 😎🌟
+Feel free to reach out if you have any questions, feedback, or if you're interested in collaborating with me for your next project 𓆝 𓆟 𓆞 𓆝 𓆟
